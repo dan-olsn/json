@@ -1,0 +1,28 @@
+{
+    "account": [
+        {
+            "id": 123,
+            "AccountID":"123",
+            "login":"dan@mail.com",
+            "person":{
+                "first_name":"Jaycee",
+                "last_name":"Ledner",
+                "date_of_birth":"1991-05-22T00:00:00-05:00",
+                "phone_numbers":[
+                    {
+                        "phone_number_type":"work",
+                        "phone_number":"7546486925"
+                    },
+                    {
+                        "phone_number_type":"main",
+                        "phone_number":"7546486925"
+                    },
+                    {
+                        "phone_number_type":"business",
+                        "phone_number":"5314860871"
+                    }
+                ]
+            }
+        }
+    ]
+}
