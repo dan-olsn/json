@@ -8,6 +8,16 @@
                 "first_name":"Jaycee",
                 "last_name":"Ledner",
                 "date_of_birth":"1991-05-22T00:00:00-05:00",
+                "addresses": [
+                    {
+                        "line1": "545 Wonderbread Ln",
+                        "line2": "",
+                        "city": "Lunchbox",
+                        "region": "IN",
+                        "postal_code": "46000"
+                    }
+                ],     
+                "business_name": "Peanut Butter & Jelly Co.",
                 "phone_numbers":[
                     {
                         "phone_number_type":"work",
@@ -32,6 +42,16 @@
                 "first_name":"John",
                 "last_name":"Doe",
                 "date_of_birth":"1991-05-22T00:00:00-05:00",
+                "addresses": [
+                    {
+                        "line1": "666 N. Michigan Ave.",
+                        "line2": "Ste. 1",
+                        "city": "Chicago",
+                        "region": "IL",
+                        "postal_code": "60611"
+                    }
+                ],     
+                "business_name": "John Doe's Witness Protection Program",
                 "phone_numbers":[
                     {
                         "phone_number_type":"work",
@@ -47,6 +67,22 @@
                     }
                 ]
             }
+        }
+    ],
+    "loan": [
+        {
+            "id": "001",
+            "account_id": "123",
+            "amount": 2100,
+            "amount_remaining": 2000,
+            "recurring_payment_amount": 500
+        },
+        {
+            "id": "003",
+            "account_id": "456",
+            "amount": 72000,
+            "amount_remaining": 56000,
+            "recurring_payment_amount": 2100
         }
     ]
 }
