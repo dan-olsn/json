@@ -73,7 +73,7 @@
         {
             "id": "001",
             "account_id": "123",
-            "amount": 2100,
+            "credit_limit": 10000,
             "amount_remaining": 2000,
             "recurring_payment_amount": 500,
             "next_payment_due_date": "2020-11-31"
@@ -81,7 +81,7 @@
         {
             "id": "003",
             "account_id": "456",
-            "amount": 72000,
+            "credit_limit": 85000,
             "amount_remaining": 56000,
             "recurring_payment_amount": 2100,
             "next_payment_due_date": "2020-12-03"
