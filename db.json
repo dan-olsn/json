@@ -76,7 +76,7 @@
             "credit_limit": 10000,
             "amount_remaining": 2000,
             "recurring_payment_amount": 500,
-            "next_payment_due_date": "2020-11-31"
+            "next_payment_due_date": "2020-11-30"
         },
         {
             "id": "003",
